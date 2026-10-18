@@ -1,0 +1,11 @@
+{
+  "appId": "com.deco100.idcard",
+  "appName": "DECO 100 ID Card",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  }
+}
